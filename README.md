@@ -46,12 +46,12 @@ Follow these steps to contribute your changes to **ChaatBazaar**:
 
 ##             OR
 
-  **In Github Desktop app : **
-    1. Click **Current repository**
-    2. Click  **Add**
-    3. Click  **Clone repository**
-    4. Choose repository
-    6. Click **Clone**.
+**In Github Desktop app : **
+   1. Click **Current repository**
+   2. Click  **Add**
+   3. Click  **Clone repository**
+   4. Choose repository
+   6. Click **Clone**.
 
 
  3. Create a Branch
@@ -123,8 +123,9 @@ git merge upstream/main
 ---
 
 ### Step - 3: Push updated code to your fork
-
-git push origin main
+   ```bash
+   git push origin main
+   ```
 
 ---
 
