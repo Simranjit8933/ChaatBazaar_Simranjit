@@ -124,8 +124,6 @@ So always follow the below steps, before any Pull request, for the corresponding
 
 
 
-
-<br>
 ## Method 2:  If using Github Desktop app :
 
 ### Step - 1: 
