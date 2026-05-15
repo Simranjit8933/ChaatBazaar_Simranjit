@@ -5,7 +5,7 @@ const menuItems = [
     category: "Snacks",
     price: 30,
     description: "Crispy golden triangle stuffed with spiced potatoes.",
-    image: "../img/8.avif"
+    image: "img/8.avif"
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const menuItems = [
     category: "Chaat",
     price: 50,
     description: "Hollow crispy puris filled with spicy, tangy water and chickpeas.",
-    image: "../img/2.avif"
+    image: "img/2.avif"
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const menuItems = [
     category: "Beverages",
     price: 20,
     description: "Aromatic tea brewed with spices and milk.",
-    image: "../img/7.avif"
+    image: "img/7.avif"
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ const menuItems = [
     category: "Snacks",
     price: 35,
     description: "Deep-fried pastry filled with spicy lentils.",
-    image: "../img/9.avif"
+    image: "img/9.avif"
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ const menuItems = [
     category: "Chaat",
     price: 45,
     description: "Crunchy puffed rice mixed with tangy tamarind chutney.",
-    image: "../img/1.avif"
+    image: "img/1.avif"
   },
 ];
 
